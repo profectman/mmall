@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="org.zhq.mmall:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="org.zhq.mmall.war">
+      <element id="artifact" artifact-name="org.zhq.mmall:war exploded" />
+    </root>
+  </artifact>
+</component>
